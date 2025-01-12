@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1698502441 source:c:\users\gusta\desktop\introduktion till programmering kau\isga44_lab2test2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1698582207 source:c:\users\gusta\desktop\introduktion till programmering kau\isga44_lab2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
